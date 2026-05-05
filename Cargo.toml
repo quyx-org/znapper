@@ -1,0 +1,14 @@
+[workspace]
+members = [
+  "znapper",
+  "znapper_zed"
+]
+resolver = "3"
+
+[workspace.package]
+authors = [
+  "Quaddle"
+]
+license = "Apache 2.0"
+
+[workspace.dependencies]
