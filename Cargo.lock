@@ -5,3 +5,10 @@ version = 4
 [[package]]
 name = "znapper"
 version = "0.1.0"
+
+[[package]]
+name = "znapper_zed"
+version = "0.1.0"
+dependencies = [
+ "znapper",
+]
