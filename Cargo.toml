@@ -7,7 +7,7 @@ resolver = "3"
 
 [workspace.package]
 authors = [
-  "Quaddle"
+  "Quaddle <perkins@quaid.me>"
 ]
 license = "Apache 2.0"
 
